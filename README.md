@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="www.maotoumao.xyz">喵喵</a>
+<a href="http://blog.maotoumao.xyz">喵喵</a>
 
 <!--
 **maotoumao/maotoumao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
