@@ -1,10 +1,10 @@
-<div id='bkgd'><div>
+<div id='bkgd'></div>
 <style>
     #bkgd{
         background: url(http://imgs.maotoumao.xyz/loading.gif) no-repeat;
         width: 100%;
     }
- <style>
+ </style>
 
 <!--
 **maotoumao/maotoumao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
