@@ -1,4 +1,4 @@
-<div style="background: url(http://imgs.maotoumao.xyz/loading.gif) no-repeat; size: 100%"></div>
+![Hi~ o(*￣▽￣*)ブ](http://imgs.maotoumao.xyz/loading.gif)
 
 <!--
 **maotoumao/maotoumao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
