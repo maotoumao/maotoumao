@@ -1,1 +1,7 @@
-QAQ
+- 2014年入学西安交通大学，2021年硕士毕业
+- 现就职于淘宝
+- 什么都想学，又什么都不想学
+- 什么都会，又什么都不会
+- 想搞算法，又不想搞没有实用场景的算法
+- 略微了解react, nodejs, electron, flutter, mongodb, python, cocos creator, nginx还有小程序。略微到什么程度呢，大概扛不过三个问题吧。
+- QAQ
