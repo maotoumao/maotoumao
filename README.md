@@ -1,2 +1,2 @@
 
-随薪锁欲
+😊=> [hi there](http://blog.upup.fun)
