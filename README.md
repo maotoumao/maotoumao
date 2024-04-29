@@ -1,4 +1,4 @@
-
+[English Version](./README-EN.md)
 ### Hiiiii 我是猫头猫，偶尔会做一些有意思的事情。
 > 猫头猫是一种昼伏夜出，喜欢偷懒，经常掉毛的神秘生物。和其他猫不一样，猫头猫的叫声是“啊对对对”。
 
@@ -7,9 +7,9 @@
 ### 👇一些网上冲浪的痕迹
 走过路过，错过就错过。
 
-|  微信公众号   |  博客  | 微博 | B站 |
-|  ----  | ---- | ---- | ---- |
-| [一只猫头猫](https://github.com/maotoumao/MusicFree/raw/master/src/assets/imgs/wechat_channel.jpg) | [upup.fun](http://blog.upup.fun) | [不想上班猫头猫](https://weibo.com/u/7808449879) | [不想睡觉猫头猫](https://space.bilibili.com/12866223) |
+|  微信公众号   |  博客  | B站 | 推特 | 小红书 |
+|  ----  | ---- | ---- | ---- | ---- |
+| [一只猫头猫](https://github.com/maotoumao/MusicFree/raw/master/src/assets/imgs/wechat_channel.jpg) | [upup.fun](http://blog.upup.fun) | [不想睡觉猫头猫](https://space.bilibili.com/12866223) | [@upupfun](https://twitter.com/upupfun) | [一只猫头猫](https://www.xiaohongshu.com/user/profile/5ce6085200000000050213a6?xhsshare=CopyLink&appuid=5ce6085200000000050213a6&apptime=1714394544) |
 
 ---
 ### 👇 技术栈
