@@ -33,7 +33,7 @@
 ![Working Class](https://img.shields.io/badge/-Working%20Class-blue)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-brightgreen)
 
-还想知道什么去这里看吧 => [🤫](http://blog.upup.fun/about/)
+还想知道什么去这里看吧 => [🤫](https://blog.catcat.work/about/)
 
 ---
 ![](https://komarev.com/ghpvc/?username=maotoumao&color=66ccff)
