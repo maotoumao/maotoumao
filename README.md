@@ -7,9 +7,9 @@
 ### 👇一些网上冲浪的痕迹
 走过路过，错过就错过。
 
-|  微信公众号   |  博客  | B站 | 推特 | 小红书 |
+|  微信公众号   |  博客  | B站 | 小红书 |
 |  ----  | ---- | ---- | ---- | ---- |
-| [一只猫头猫](https://github.com/maotoumao/MusicFree/raw/master/src/assets/imgs/wechat_channel.jpg) | [catcat.work](https://blog.catcat.work) | [不想睡觉猫头猫](https://space.bilibili.com/12866223) | [@upupfun](https://twitter.com/upupfun) | [一只猫头猫](https://www.xiaohongshu.com/user/profile/5ce6085200000000050213a6?xhsshare=CopyLink&appuid=5ce6085200000000050213a6&apptime=1714394544) |
+| [一只猫头猫](https://github.com/maotoumao/MusicFree/raw/master/src/assets/imgs/wechat_channel.jpg) | [catcat.work](https://blog.catcat.work) | [不想睡觉猫头猫](https://space.bilibili.com/12866223) | [一只猫头猫](https://www.xiaohongshu.com/user/profile/5ce6085200000000050213a6?xhsshare=CopyLink&appuid=5ce6085200000000050213a6&apptime=1714394544) |
 
 ---
 ### 👇 技术栈
