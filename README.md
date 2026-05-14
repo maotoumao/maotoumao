@@ -29,7 +29,7 @@
 
 ---
 ### 🐱 About Me
-![ISFP](https://img.shields.io/badge/-%20ISFP-blueviolet)
+![INFP](https://img.shields.io/badge/-%20INFP-brightgreen)
 ![Working Class](https://img.shields.io/badge/-Working%20Class-blue)
 ![Open Source](https://img.shields.io/badge/-Open%20Source-brightgreen)
 
